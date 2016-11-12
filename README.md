@@ -5,8 +5,12 @@ Project of Software Engineering 2</center>
 
 
 
-<center>Authors: Falci Angelo 875123
+<center>Authors: 
+
+Falci Angelo 875123
+
 Lanzuise Valentina 807364
+
 Lazzaretti Simone 875326</center>
 
 
