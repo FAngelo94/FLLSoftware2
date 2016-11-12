@@ -1,26 +1,16 @@
-POLITECNICO DI MILANO
+<center>POLITECNICO DI MILANO
 Computer Science and Engineering
-Project of Software Engineering 2
+Project of Software Engineering 2<\center>
 
 
 
 
-
-
-Requirements Analysis
-and
-Specification Document
-
-
-
-
-
-Authors: Falci Angelo 875123
+<center>Authors: Falci Angelo 875123
 Lanzuise Valentina 807364
-Lazzaretti Simone 875326
+Lazzaretti Simone 875326</center>
 
 
 
 
 
-Reference Professor: Di Nitto Elisabetta
+<center>Reference Professor: Di Nitto Elisabetta</center>
