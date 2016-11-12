@@ -1,6 +1,6 @@
 <center>POLITECNICO DI MILANO
 Computer Science and Engineering
-Project of Software Engineering 2<\center>
+Project of Software Engineering 2</center>
 
 
 
